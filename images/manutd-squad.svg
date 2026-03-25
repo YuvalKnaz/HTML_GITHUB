@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450">
+  <rect width="1200" height="450" fill="#121212" />
+  <circle cx="240" cy="240" r="75" fill="#f6c400" />
+  <circle cx="460" cy="195" r="75" fill="#f6c400" />
+  <circle cx="680" cy="220" r="75" fill="#f6c400" />
+  <circle cx="900" cy="180" r="75" fill="#f6c400" />
+  <text x="600" y="80" font-family="Helvetica, Arial, sans-serif" font-size="60" font-weight="bold" fill="#fff" text-anchor="middle">United Squad</text>
+  <text x="600" y="130" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffcc00" text-anchor="middle">Speed, Skill and Spirit</text>
+</svg>
